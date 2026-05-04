@@ -1,0 +1,22 @@
+{
+  "1.149.0": {
+    "date": "May 2026",
+    "notes": [
+      {
+        "id": "533efe630183d6ebd1bf6e603e5fe2bfcc3da1be",
+        "type": "FIX",
+        "text": " sap.m.Dialog: Fix layout when no vertical scrolling"
+      },
+      {
+        "id": "562ed85896613759cb096efa3f0951b36f20719c",
+        "type": "FIX",
+        "text": " p13n.BasePanel: Import enums correctly"
+      },
+      {
+        "id": "8cf58aa5208074ea8e91194c59297acefaf0aef4",
+        "type": "FIX",
+        "text": " IllustrationExplorer: Fix unstable OPA tests for size and set selects"
+      }
+    ]
+  }
+}

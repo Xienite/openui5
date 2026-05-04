@@ -1,0 +1,12 @@
+{
+  "1.149.0": {
+    "date": "May 2026",
+    "notes": [
+      {
+        "id": "533efe630183d6ebd1bf6e603e5fe2bfcc3da1be",
+        "type": "FIX",
+        "text": " sap.m.Dialog: Fix layout when no vertical scrolling"
+      }
+    ]
+  }
+}
